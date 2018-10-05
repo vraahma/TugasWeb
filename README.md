@@ -1,7 +1,3 @@
-# بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
-
-
-
 Repositori ini berisi file kodingan untuk tugas mata kuliah **Pemrograman Web** TI & SI semester 3 STTNF.
 
 Tiap direktori berisi file tugas masing-masing mahasiswa.
@@ -97,5 +93,4 @@ Example:
 
 
 
-الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ اللَّهِ ۗ أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
-> "Those who have believed and whose hearts are assured by the remembrance of Allah . Unquestionably, by the remembrance of Allah hearts are assured." - 13:28
+"Those who have believed and whose hearts are assured by the remembrance of Allah . Unquestionably, by the remembrance of Allah hearts are assured." - 13:28
